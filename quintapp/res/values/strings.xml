@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MISION Y VISION </string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">INSTITUTO SUPERIOR TECNOLOGICO CANCHIS</string>
+    <string name="TitulosMision">MISION</string>
+    <string name="TituloVision">VISION</string>
+	<string name="ContenidoMision">SOMOS UNA INSTITUCIÓN DE EDUCACIÓN SUPERIOR TECNOLÓGICA 
+QUE IMPULSA EL DESARROLLO LOCAL, REGIONAL Y NACIONAL 
+APORTANDO SERVICIOS EDUCATIVOS DE CALIDAD EN LA FORMACIÓN 
+DE PROFESIONALES TÉCNICOS COMPETITIVOS, INNOVADORES Y CON 
+VALORES ÉTICOS PARA RESPONDER A LAS EXPECTATIVAS Y 
+NECESIDADES DEL MERCADO LABORAL.</string>
+	<string name="ContenidoVision">EL INSTITUTO DE EDUCACIÓN SUPERIOR TECNOLÓGICO PRIVADO 
+"CANCHIS" AL 2021 ES UNA INSTITUCIÓN ACREDITADA LÍDER A 
+NIVEL REGIONAL EN LA FORMACIÓN DE PROFESIONALES TÉCNICOS
+ COMPETENTES.</string>
+</resources>
